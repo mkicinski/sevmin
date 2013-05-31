@@ -136,10 +136,10 @@
                          self.picture.backgroundColor = SUNFLOWERCOLOR;
                          self.picture.image = [UIImage imageWithEmoji:@"👍" withSize:35.0f];
                          self.currentExerciseLabel.text = @"Done!";
-                         
                      } completion:^(BOOL finished) {
                          [self startingUI];
                          self.picture.image = nil;
+                         self.startButton.enabled = YES;
                      }];
 }
 
@@ -148,6 +148,7 @@
 - (IBAction)startButtonPressed:(UIButton *)sender
 {
     [self startCoundown];
+    sender.enabled = NO;
 }
 
 #pragma mark - App Logic
@@ -166,8 +167,8 @@
                                                  repeats:YES];
 }
 
-#define EXERCISELENGTH 3
-#define RESTLENGTH 2
+#define EXERCISELENGTH 30
+#define RESTLENGTH 10
 
 - (void)tick
 {
