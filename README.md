@@ -10,4 +10,4 @@ Images to [NYT Health Blog](http://well.blogs.nytimes.com/2013/05/09/the-scienti
 
 Colors from [flatuicolors.com](http://flatuicolors.com)
 
-I wrote a little bit about my experience on my [blog.](http://michaelasena.com/blog/2013/05/30/sevmin/)
+I wrote a little bit about my developmen experience on my [blog.](http://michaelasena.com/blog/2013/05/30/sevmin/)
