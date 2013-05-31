@@ -9,3 +9,5 @@ Workouts should be done around 8 on a 1-10 exertion level. Read more about it [h
 Images to [NYT Health Blog](http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/) and  [7-min.com](7-min.com).
 
 Colors from [flatuicolors.com](http://flatuicolors.com)
+
+Plug my own [blog.](http://michaelasena.com/blog/2013/05/30/sevmin/)
