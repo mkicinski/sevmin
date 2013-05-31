@@ -19,6 +19,21 @@
 		58EFB2F617578E58001130A7 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB2F417578E58001130A7 /* MainStoryboard_iPhone.storyboard */; };
 		58EFB2F917578E58001130A7 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB2F717578E58001130A7 /* MainStoryboard_iPad.storyboard */; };
 		58EFB2FC17578E58001130A7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58EFB2FB17578E58001130A7 /* ViewController.m */; };
+		58EFB304175792C4001130A7 /* MASWorkout.m in Sources */ = {isa = PBXBuildFile; fileRef = 58EFB303175792C4001130A7 /* MASWorkout.m */; };
+		58EFB307175792EC001130A7 /* MASExercise.m in Sources */ = {isa = PBXBuildFile; fileRef = 58EFB306175792EC001130A7 /* MASExercise.m */; };
+		58EFB31617579645001130A7 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB30A17579645001130A7 /* 1.png */; };
+		58EFB31717579645001130A7 /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB30B17579645001130A7 /* 10.png */; };
+		58EFB31817579645001130A7 /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB30C17579645001130A7 /* 11.png */; };
+		58EFB31917579645001130A7 /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB30D17579645001130A7 /* 12.png */; };
+		58EFB31A17579645001130A7 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB30E17579645001130A7 /* 2.png */; };
+		58EFB31B17579645001130A7 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB30F17579645001130A7 /* 3.png */; };
+		58EFB31C17579645001130A7 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB31017579645001130A7 /* 4.png */; };
+		58EFB31D17579645001130A7 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB31117579645001130A7 /* 5.png */; };
+		58EFB31E17579645001130A7 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB31217579645001130A7 /* 6.png */; };
+		58EFB31F17579645001130A7 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB31317579645001130A7 /* 7.png */; };
+		58EFB32017579645001130A7 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB31417579645001130A7 /* 8.png */; };
+		58EFB32117579645001130A7 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 58EFB31517579645001130A7 /* 9.png */; };
+		58F0B3FC1758089D0087263B /* UIImage+emoji.m in Sources */ = {isa = PBXBuildFile; fileRef = 58F0B3FB1758089D0087263B /* UIImage+emoji.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +54,24 @@
 		58EFB2F817578E58001130A7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		58EFB2FA17578E58001130A7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		58EFB2FB17578E58001130A7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		58EFB302175792C4001130A7 /* MASWorkout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASWorkout.h; sourceTree = "<group>"; };
+		58EFB303175792C4001130A7 /* MASWorkout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASWorkout.m; sourceTree = "<group>"; };
+		58EFB305175792EC001130A7 /* MASExercise.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASExercise.h; sourceTree = "<group>"; };
+		58EFB306175792EC001130A7 /* MASExercise.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASExercise.m; sourceTree = "<group>"; };
+		58EFB30A17579645001130A7 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		58EFB30B17579645001130A7 /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		58EFB30C17579645001130A7 /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		58EFB30D17579645001130A7 /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
+		58EFB30E17579645001130A7 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		58EFB30F17579645001130A7 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		58EFB31017579645001130A7 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		58EFB31117579645001130A7 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		58EFB31217579645001130A7 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		58EFB31317579645001130A7 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		58EFB31417579645001130A7 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		58EFB31517579645001130A7 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		58F0B3FA1758089D0087263B /* UIImage+emoji.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+emoji.h"; sourceTree = "<group>"; };
+		58F0B3FB1758089D0087263B /* UIImage+emoji.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+emoji.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +118,9 @@
 		58EFB2E217578E57001130A7 /* sevmin */ = {
 			isa = PBXGroup;
 			children = (
+				58F0B3FA1758089D0087263B /* UIImage+emoji.h */,
+				58F0B3FB1758089D0087263B /* UIImage+emoji.m */,
+				58EFB30917579645001130A7 /* resources */,
 				58EFB2EB17578E58001130A7 /* AppDelegate.h */,
 				58EFB2EC17578E58001130A7 /* AppDelegate.m */,
 				58EFB2F417578E58001130A7 /* MainStoryboard_iPhone.storyboard */,
@@ -92,6 +128,10 @@
 				58EFB2FA17578E58001130A7 /* ViewController.h */,
 				58EFB2FB17578E58001130A7 /* ViewController.m */,
 				58EFB2E317578E58001130A7 /* Supporting Files */,
+				58EFB302175792C4001130A7 /* MASWorkout.h */,
+				58EFB303175792C4001130A7 /* MASWorkout.m */,
+				58EFB305175792EC001130A7 /* MASExercise.h */,
+				58EFB306175792EC001130A7 /* MASExercise.m */,
 			);
 			path = sevmin;
 			sourceTree = "<group>";
@@ -108,6 +148,25 @@
 				58EFB2F217578E58001130A7 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		58EFB30917579645001130A7 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				58EFB30A17579645001130A7 /* 1.png */,
+				58EFB30B17579645001130A7 /* 10.png */,
+				58EFB30C17579645001130A7 /* 11.png */,
+				58EFB30D17579645001130A7 /* 12.png */,
+				58EFB30E17579645001130A7 /* 2.png */,
+				58EFB30F17579645001130A7 /* 3.png */,
+				58EFB31017579645001130A7 /* 4.png */,
+				58EFB31117579645001130A7 /* 5.png */,
+				58EFB31217579645001130A7 /* 6.png */,
+				58EFB31317579645001130A7 /* 7.png */,
+				58EFB31417579645001130A7 /* 8.png */,
+				58EFB31517579645001130A7 /* 9.png */,
+			);
+			path = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -167,6 +226,18 @@
 				58EFB2F317578E58001130A7 /* Default-568h@2x.png in Resources */,
 				58EFB2F617578E58001130A7 /* MainStoryboard_iPhone.storyboard in Resources */,
 				58EFB2F917578E58001130A7 /* MainStoryboard_iPad.storyboard in Resources */,
+				58EFB31617579645001130A7 /* 1.png in Resources */,
+				58EFB31717579645001130A7 /* 10.png in Resources */,
+				58EFB31817579645001130A7 /* 11.png in Resources */,
+				58EFB31917579645001130A7 /* 12.png in Resources */,
+				58EFB31A17579645001130A7 /* 2.png in Resources */,
+				58EFB31B17579645001130A7 /* 3.png in Resources */,
+				58EFB31C17579645001130A7 /* 4.png in Resources */,
+				58EFB31D17579645001130A7 /* 5.png in Resources */,
+				58EFB31E17579645001130A7 /* 6.png in Resources */,
+				58EFB31F17579645001130A7 /* 7.png in Resources */,
+				58EFB32017579645001130A7 /* 8.png in Resources */,
+				58EFB32117579645001130A7 /* 9.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -180,6 +251,9 @@
 				58EFB2E917578E58001130A7 /* main.m in Sources */,
 				58EFB2ED17578E58001130A7 /* AppDelegate.m in Sources */,
 				58EFB2FC17578E58001130A7 /* ViewController.m in Sources */,
+				58EFB304175792C4001130A7 /* MASWorkout.m in Sources */,
+				58EFB307175792EC001130A7 /* MASExercise.m in Sources */,
+				58F0B3FC1758089D0087263B /* UIImage+emoji.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +386,7 @@
 				58EFB30117578E58001130A7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
