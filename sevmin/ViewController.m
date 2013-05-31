@@ -134,7 +134,7 @@
                         options:UIViewAnimationOptionCurveEaseInOut
                      animations:^{
                          self.picture.backgroundColor = SUNFLOWERCOLOR;
-                         self.picture.image = [UIImage imageWithEmoji:@"👍" withSize:35.0f];
+
                          self.currentExerciseLabel.text = @"Done!";
                      } completion:^(BOOL finished) {
                          [self startingUI];
